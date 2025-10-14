@@ -6,6 +6,8 @@
     <description>Recent content in Categories on 我的全新 Hugo 网站</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
+    <managingEditor>aidenz2019@outlook.com (aidenz)</managingEditor>
+    <webMaster>aidenz2019@outlook.com (aidenz)</webMaster>
     <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
