@@ -12,6 +12,27 @@
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>/posts/dify/dify%E4%BF%AE%E6%94%B9%E5%B5%8C%E5%85%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E7%9A%84power-by%E5%9B%BE%E6%A0%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aidenz2019@outlook.com (aidenz)</author>
+      <guid>/posts/dify/dify%E4%BF%AE%E6%94%B9%E5%B5%8C%E5%85%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E7%9A%84power-by%E5%9B%BE%E6%A0%87/</guid>
+      <description>&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;&#xA;&lt;p&gt;最近近期公司需要使用dify框架开发一个公司网站的AI客服助手，但是嵌入网站时会显示powered by dify。有dify的logo。&lt;/p&gt;&#xA;&lt;h1 id=&#34;版本&#34;&gt;版本&lt;/h1&gt;&#xA;&lt;p&gt;dify版本：1.9.1&#xA;docker部署&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/git/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aidenz2019@outlook.com (aidenz)</author>
+      <guid>/posts/git/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>&lt;h1 id=&#34;git-设置用户名和邮箱&#34;&gt;git 设置用户名和邮箱&lt;/h1&gt;&#xA;&lt;p&gt;全局配置用户名和邮箱&lt;/p&gt;&#xA;&lt;p&gt;全局配置适用于所有仓库：&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --global user.name &lt;span class=&#34;s2&#34;&gt;&amp;#34;你的用户名&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --global user.email &lt;span class=&#34;s2&#34;&gt;&amp;#34;你的邮箱@example.com&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;验证配置是否成功：&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --global user.name&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git config --global user.email&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/posts/java%E5%9F%BA%E7%A1%80/javaio/%E5%AD%97%E8%8A%82%E6%B5%81/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aidenz2019@outlook.com (aidenz)</author>
+      <guid>/posts/java%E5%9F%BA%E7%A1%80/javaio/%E5%AD%97%E8%8A%82%E6%B5%81/</guid>
+      <description>&lt;h1 id=&#34;字节输出流&#34;&gt;字节输出流&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;java.io.OutputStream&lt;/code&gt; 是&lt;strong&gt;字节输出流&lt;/strong&gt;的&lt;strong&gt;超类&lt;/strong&gt;（父类），我们来看一下它定义的一些共性方法：&lt;/p&gt;&#xA;&lt;p&gt;1、 &lt;code&gt;close()&lt;/code&gt; ：关闭此输出流并释放与此流相关联的系统资源。&lt;/p&gt;&#xA;&lt;p&gt;2、 &lt;code&gt;flush()&lt;/code&gt; ：刷新此输出流并强制缓冲区的字节被写入到目的地。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
       <link>/posts/java%E5%9F%BA%E7%A1%80/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/listsetqueue%E5%92%8Cmap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aidenz2019@outlook.com (aidenz)</author>
       <guid>/posts/java%E5%9F%BA%E7%A1%80/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/listsetqueue%E5%92%8Cmap/</guid>
