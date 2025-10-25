@@ -12,13 +12,6 @@
     <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>/posts/dify/dify%E4%BF%AE%E6%94%B9%E5%B5%8C%E5%85%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E7%9A%84power-by%E5%9B%BE%E6%A0%87/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aidenz2019@outlook.com (aidenz)</author>
-      <guid>/posts/dify/dify%E4%BF%AE%E6%94%B9%E5%B5%8C%E5%85%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E7%9A%84power-by%E5%9B%BE%E6%A0%87/</guid>
-      <description>&lt;h1 id=&#34;背景&#34;&gt;背景&lt;/h1&gt;&#xA;&lt;p&gt;最近近期公司需要使用dify框架开发一个公司网站的AI客服助手，但是嵌入网站时会显示powered by dify。有dify的logo。&lt;/p&gt;&#xA;&lt;h1 id=&#34;版本&#34;&gt;版本&lt;/h1&gt;&#xA;&lt;p&gt;dify版本：1.9.1&#xA;docker部署&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>/posts/git/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aidenz2019@outlook.com (aidenz)</author>
       <guid>/posts/git/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
