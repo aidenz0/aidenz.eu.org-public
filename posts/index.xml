@@ -19,9 +19,9 @@
     </item>
     <item>
       <title></title>
-      <link>/posts/java%E5%9F%BA%E7%A1%80/javaio/%E5%AD%97%E8%8A%82%E6%B5%81/</link>
+      <link>/posts/java%E5%9F%BA%E7%A1%80/javaio/3.-%E5%AD%97%E8%8A%82%E6%B5%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>aidenz2019@outlook.com (aidenz)</author>
-      <guid>/posts/java%E5%9F%BA%E7%A1%80/javaio/%E5%AD%97%E8%8A%82%E6%B5%81/</guid>
+      <guid>/posts/java%E5%9F%BA%E7%A1%80/javaio/3.-%E5%AD%97%E8%8A%82%E6%B5%81/</guid>
       <description>&lt;h1 id=&#34;字节输出流&#34;&gt;字节输出流&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;java.io.OutputStream&lt;/code&gt; 是&lt;strong&gt;字节输出流&lt;/strong&gt;的&lt;strong&gt;超类&lt;/strong&gt;（父类），我们来看一下它定义的一些共性方法：&lt;/p&gt;&#xA;&lt;p&gt;1、 &lt;code&gt;close()&lt;/code&gt; ：关闭此输出流并释放与此流相关联的系统资源。&lt;/p&gt;&#xA;&lt;p&gt;2、 &lt;code&gt;flush()&lt;/code&gt; ：刷新此输出流并强制缓冲区的字节被写入到目的地。&lt;/p&gt;</description>
     </item>
     <item>
